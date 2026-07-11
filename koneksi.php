@@ -7,7 +7,7 @@
 // ===== KONFIGURASI DATABASE =====
 $host = 'localhost';
 $username = 'root';
-$password = '';
+$passwor = '';
 $database = 'kajian_islam';
 
 // ===== MEMBUAT KONEKSI =====
